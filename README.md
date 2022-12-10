@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wboraay
-- 🌱 I’m currently learning C#,HTML,CSS,Flutter 
+- 🌱 I’m currently learning C#,CSHTML,MVC,.Net,CSS,JavaScript,JQuery,Angular.
 
 
 
